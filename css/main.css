@@ -20,6 +20,11 @@ main {
     flex-wrap: wrap;
 }
 
+header {
+    background-color: green;
+    padding: 40px; 
+}
+
 header > h1 {
     text-align: center;
     padding: 10px;
